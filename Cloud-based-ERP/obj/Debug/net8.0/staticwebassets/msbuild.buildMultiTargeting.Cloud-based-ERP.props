@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cloud-based-ERP.props" />
+</Project>

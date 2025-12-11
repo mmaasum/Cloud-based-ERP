@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MohammadMasumJahangi\\source\\repos\\Cloud-based-ERP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27013CC8-152A-4F0E-AF8F-62D2A6279A4C}|Cloud-based-ERP\\Cloud-based-ERP.csproj|c:\\users\\mohammadmasumjahangi\\source\\repos\\cloud-based-erp\\cloud-based-erp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27013CC8-152A-4F0E-AF8F-62D2A6279A4C}|Cloud-based-ERP\\Cloud-based-ERP.csproj|solutionrelative:cloud-based-erp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27013CC8-152A-4F0E-AF8F-62D2A6279A4C}|Cloud-based-ERP\\Cloud-based-ERP.csproj|c:\\users\\mohammadmasumjahangi\\source\\repos\\cloud-based-erp\\cloud-based-erp\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27013CC8-152A-4F0E-AF8F-62D2A6279A4C}|Cloud-based-ERP\\Cloud-based-ERP.csproj|solutionrelative:cloud-based-erp\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 360,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\MohammadMasumJahangi\\source\\repos\\Cloud-based-ERP\\Cloud-based-ERP\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Cloud-based-ERP\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\MohammadMasumJahangi\\source\\repos\\Cloud-based-ERP\\Cloud-based-ERP\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Cloud-based-ERP\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:15:55.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MohammadMasumJahangi\\source\\repos\\Cloud-based-ERP\\Cloud-based-ERP\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Cloud-based-ERP\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\MohammadMasumJahangi\\source\\repos\\Cloud-based-ERP\\Cloud-based-ERP\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Cloud-based-ERP\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T13:09:28.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 1492,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 157,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

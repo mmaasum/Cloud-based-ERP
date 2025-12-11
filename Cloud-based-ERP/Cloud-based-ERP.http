@@ -1,0 +1,6 @@
+@Cloud_based_ERP_HostAddress = http://localhost:5216
+
+GET {{Cloud_based_ERP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
